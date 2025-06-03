@@ -2,6 +2,8 @@
 
 Este projeto é um exemplo de integração entre um chat com IA usando o **Vercel AI SDK** e chamadas públicas à API do GitHub utilizando **tool calling**. Ideal para quem quer explorar o poder de agentes inteligentes e extensíveis com Next.js.
 
+> 💡 Este projeto foi desenvolvido como parte da pós-graduação **Tech Developer 360** da **Rocketseat**.> 💡 Este projeto foi desenvolvido como parte da pós-graduação **Tech Developer 360** da **Rocketseat**.
+
 ---
 
 ## ✨ Funcionalidades
